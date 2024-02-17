@@ -1,5 +1,5 @@
 # SQL_LinkedInLive_Part2
-`sql`
+`sql
 -- 1. Check for missing values in a specific column
 WITH missing_emails AS (
     SELECT *
@@ -91,3 +91,4 @@ WITH film_category_counts AS (
 )
 SELECT *
 FROM film_category_counts;
+`
